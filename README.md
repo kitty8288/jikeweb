@@ -1,13 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-	<meta charset="UTF-8">
-	<title>Document</title>
-</head>
-<style>
-	*{line-height: 32px;}
-</style>
-<body>
 	# 大前端学习之路<br/>
 
 <a href="https://github.com/kitty8288/jikeweb/tree/master/Lesson1-Basic_HTML"><strong><strong>1.课程1</strong></strong></a><br/>
@@ -51,6 +41,5 @@
 <strong>12.课程</strong></a><br/>
 (1)用设计模式改善百度js代码<br/>
 (2)高级前端面试题总结<br/>
-</body>
-</html>
+
 
